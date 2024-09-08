@@ -5,6 +5,26 @@
 
 # Note: sorry sir for the late submission. I've already messaged you the reason for the late submission. I've also sent the medical certificate in messenger as proof. Thank you sir.
 
+# Answer to questions
+
+# 1. What can you observe in the binangkal recipe flowchart?
+
+    # The flowchart starts with gathering the ingredients which are divided into two parts namely dry and wet mixtures.
+    # In the flowchart, it can be seen that the dry and wet ingredients are mixed separately before combining them into a dough.
+    # The dough is then kneaded if it is not smooth and sticky it will be kneaded until it is smooth and not sticky.
+    # Once it is smooth and not sticky it will be shaped into balls and coated with sesame seeds.
+    # After the balls are shaped, they are fried in hot oil until golden brown and then served.
+
+
+# 2. Can you identify a specific type of control structure in the flowchart?
+
+    # The control structure that can be seen in the flowchart are conditional statements and looping
+    # The flowchart includes decision-making points like for example in the "While not smooth and sticky" part there is a conditional statement that can be seen.
+    # If the dough is not smooth and sticky it will then knead the dough. Otherwise, it will be shaped into a ball and coated with sesame seeds.
+    # Moreover, in the process of frying the binangkal until it turns into golden brown is an example of looping. Because frying will continue until a certain condition (golden brown) is met.
+
+
+# 3. Try to implement this in your previous programming language.
 class BinangkalRecipe:
     def __init__(self):
         self.ingredients = {
