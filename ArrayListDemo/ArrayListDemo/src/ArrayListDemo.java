@@ -19,7 +19,6 @@ public class ArrayListDemo {
     ArrayList<String> student = new ArrayList<String>();                                                  // Intialization without pre-defined values.
     ArrayList<Integer> grades = new ArrayList<Integer>(Arrays.asList(35, 78, 45,44, 60));          // Intialization with pre-defined values.
     
-
     // 2. Perform built-n methods of an ArrayList object.
     public void arrayListMethods(){
 

@@ -135,14 +135,8 @@ public class App {
                 System.out.print(col+ " ");
             }
             System.out.println();
-        }
-
-
-
-        
+        }  
     }
-
-
 
     // Solution #4
     public static void sol4(){
@@ -164,7 +158,6 @@ public class App {
     }
 
     // Solution #5
-
     public static void sol5(){
         
         int []x = {50,55,24,36,39};
@@ -180,8 +173,6 @@ public class App {
             
             System.out.println("x = "+ x[i] +", "+"y = " + y[i]);
         }
-
-
 
         // while-loop
         System.out.println("\nWhile-Loop Linear Equation in slope intercept form: ");
